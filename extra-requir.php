@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
+ <!-- Used with id or unimportant information because it does not encrypt the data 
+  and stores the data in the browser's memory. -->
     <form action="" method="get">
         <input name="name" placeholder="your name">
         <input type="submit" value="submit">
