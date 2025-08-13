@@ -1,3 +1,8 @@
+<?php
+
+// Display current date and time
+echo date("Y-m-d H:i");
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -17,8 +22,4 @@
     
     </form>
 </body>
-</html><?php
-
-// Display current date and time
-echo date("Y-m-d H:i");
-?>
+</html>
