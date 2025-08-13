@@ -7,7 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="process.php" method="post">
+    <h1>post form </h1>
+    <!-- form -->
+     <!-- result page == result form -->
+    <form action="result-page.php" method="post">
         <input type="text" name="name" placeholder="your name">
         <input type="text" name="color-favorite" placeholder="your favorite color">
         <input type="submit" value="submit">
