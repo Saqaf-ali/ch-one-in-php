@@ -13,6 +13,7 @@ echo date("Y-m-d H:i");
 </head>
 <body>
     <h1>post form </h1>
+    <a href="extra-requir.php"> extra-requirement </a>
     <!-- form -->
      <!-- result page == result form -->
     <form action="result-page.php" method="post">
