@@ -16,6 +16,7 @@ echo date("Y-m-d H:i");
     <a href="extra-requir.php"> extra-requirement </a>
     <!-- form -->
      <!-- result page == result form -->
+      <!-- We use it with data sent from the form, and this data is encrypted. -->
     <form action="result-page.php" method="post">
         <input type="text" name="name" placeholder="your name">
         <input type="text" name="color-favorite" placeholder="your favorite color">
